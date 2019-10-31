@@ -15,7 +15,7 @@ body {
 div {
   display: flex;
   justify-content: center;
-  padding: .4em 0;
+  padding: 0;
   background: #d05c2e;
   color: #fff;
 }
